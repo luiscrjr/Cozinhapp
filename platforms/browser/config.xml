@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="luiscrjr.esy.es" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Garçonete só de batata</name>
+    <description>
+        App de uso das garçonetes do restaurante.
+    </description>
+    <author email="luis.claudio.r.jr@gmail.com" href="http://luiscrjr.esy.es">
+        Luís Ribeiro
+    </author>
+    <content src="index.html" />
+    <access origin="http://cozinhapp.sergiolopes.org" />
+    <access origin="*" />
+    <icon src="resources\android\icon\drawable-xhdpi-icon.png" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackgroundColor" value="0xF2F2F2FF" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="StatusBarBackgroundColor" value="#E86C13" />
+</widget>
